@@ -1,0 +1,132 @@
+a.navigator{
+color:#b8b9ba;
+
+}
+/*
+.navigator:focus{
+    outline:none;
+}
+*/
+.navigator:hover, .navigator:active{
+    color: white;
+    text-decoration: none;
+}
+#toggle_menu:active, #toggle_menu:hover, #toggle_menu:visited{
+    color: #3d3f42;
+    text-decoration: none;
+}
+
+table img{
+    height: 20px;
+    width: 20px;
+}
+
+#legimg{
+    width:125px;
+    height: 150px;
+}
+
+#detailcontent{
+    padding-left: 2%;
+}
+
+.personal{
+    line-height: 1;
+    font-size:13px;
+}
+#content, #detailcontent{
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 1px solid;
+}
+
+.nav-tabs > li.active > a,
+ {
+/*
+    background-color:cadetblue;
+    font-weight:bolder;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    color:orange;
+*/
+     color: black;
+}
+.nav-tabs > li > a,
+.nav-tabs > li > a:focus, .nav-tabs > li > a:hover
+ {
+
+    background-color:white;
+  /*  font-weight:bolder;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+*/
+   color:gainsboro;
+}
+.nav-tabs > li
+{
+   background-color: white; 
+}
+
+.nav-tabs{
+    background-color: white;
+}
+
+.navbar-nav > li > a,
+.navbar-nav > li:hover, .navbar-nav > li:active
+{
+    color:#b8b9ba;
+    text-decoration: none;
+}
+
+#Search{
+    padding-left: 20%;
+}
+
+.tab-content {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    border: 1px gainsboro solid;
+}
+
+#menu, #menu > li, #menu > li >a, #menu > li > a:hover,#menu > li > a:active {
+    background-color:#3d3f42; 
+    color:#b8b9ba;
+    text-decoration: none;
+}
+.back{
+    color:black;
+}
+
+
+
+/*
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+
+[class*="col-"] {
+  padding-top: 15px;
+  padding-bottom: 15px;
+ 
+}
+*/
+/*
+@media only screen and (min-width : 768px) {
+    .is-table-row {
+        display: table;
+    }
+    .is-table-row [class="col-sm-2"] {
+        float: none;
+        display: table-cell;
+        vertical-align: top;
+    }
+}
+*/
+
+
+
+
