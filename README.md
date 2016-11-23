@@ -1,1 +1,3 @@
 # Congress-AngularJS
+
+An Interactive and Dynamic Website that provides information on members of Congress. Complete code coming soon....
